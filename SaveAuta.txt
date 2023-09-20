@@ -1,0 +1,12 @@
+ua,asdg,1TO 3282,89016,13,12861
+ua,asdg,9AS 9628,98352,26,15172
+oa,asdg,1XO 8854,181677,74,modrá
+ua,asdg,1BR 4365,180241,28,8058
+ua,asdg,5KW 4964,141712,50,16703
+oa,asdg,4XU 3816,160875,99,černá
+oa,asdg,7AQ 4951,108115,43,černá
+oa,asdg,9ZD 0035,152368,47,zelená
+oa,asdg,1ZO 0017,105136,71,žlutá
+oa,asdg,0EY 9367,135720,73,modrá
+oa,asdg,5NJ 7391,189953,14,modrá
+ua,asdg,0LU 0484,150616,74,8377
